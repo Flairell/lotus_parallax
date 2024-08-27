@@ -1,3 +1,10 @@
+******************************************
+
+Fork of ooga booga:
+LOTUS PARALLAX - platform adventure-crafting game
+
+******************************************
+
 
 ooga booga
 
